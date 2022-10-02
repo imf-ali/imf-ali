@@ -6,7 +6,7 @@ Fahad</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in Rupeek Fintech Private Limited
+- 🔭 I’m a Software Engineer
 
 - :school_satchel: I’m a graduate of IIIT Allahabad 2022.
 
