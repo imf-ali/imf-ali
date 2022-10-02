@@ -8,7 +8,7 @@ Fahad</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Rupeek Fintech Private Limited</a>
 
-- 🌱 I’m a graduate of IIIT Allahabad 2022.
+- :school_satchel: I’m a graduate of IIIT Allahabad 2022.
 
 - 🌱 I’m currently Working on Frontend Development(React)
 
