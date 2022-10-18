@@ -10,8 +10,6 @@ Fahad</a></h1>
 
 - :school_satchel: I’m a graduate of IIIT Allahabad 2022.
 
-- 🌱 I’m currently Working on Frontend Development(React)
-
 - 📫 How to reach me **alifahad2210@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1d-IdQXfpLQlsT5XstXKaw96vaG-4cFUY/view?usp=sharing" target="blank">Resume</a>
