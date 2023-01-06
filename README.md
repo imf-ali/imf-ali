@@ -12,7 +12,7 @@ Fahad</a></h1>
 
 - 📫 How to reach me **alifahad2210@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1d-IdQXfpLQlsT5XstXKaw96vaG-4cFUY/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hwDcbcG3_VLFQ5eXcAYCp0iV_PLwz3Bb/view?usp=sharing" target="blank">Resume</a>
 
 - Here is my <a href="https://imf-ali.netlify.app/" target="blank">portfolio</a> website. 
   <br/>
@@ -35,7 +35,7 @@ Fahad</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/imf_ali">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1d-IdQXfpLQlsT5XstXKaw96vaG-4cFUY/view?usp=sharing">
+		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1hwDcbcG3_VLFQ5eXcAYCp0iV_PLwz3Bb/view?usp=sharing">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
