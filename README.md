@@ -43,10 +43,10 @@ Fahad</a></h1>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="center">
- <a href="https://github.com/shravanatirtha">
+ <a href="https://github.com/imf-ali">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imf-ali&theme=nord&show_icons=true" />
 </a>
-<a href="https://github.com/shravanatirtha">
+<a href="https://github.com/imf-ali">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imf-ali&theme=nord" />
 </a>
 <br>
