@@ -33,8 +33,10 @@ Fahad</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/imf_ali">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
-
+    </div><br>
+    <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=imf-ali&color=brightgreen&style=for-the-badge" />
+    </div>
 </p>
 
 <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
